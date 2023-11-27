@@ -1,6 +1,7 @@
-[](https://media.giphy.com/media/eHdZZgmLheaqRT6kVX/giphy.gif)
+![](https://media.giphy.com/media/eHdZZgmLheaqRT6kVX/giphy.gif)
 My name is Andromeda
-=================================================================================================================================
+=======================================
+
 * 🌍  I'm based in Bosnia
 
 ### Skills
