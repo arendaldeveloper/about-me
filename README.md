@@ -1,5 +1,5 @@
 ![](https://media.giphy.com/media/n6mEMqAuYOQ8l8qcEE/giphy.gif)
-My name is Andromeda
+
 =======================================
 
 * 🌍  I'm based in Bosnia
