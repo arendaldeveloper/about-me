@@ -1,4 +1,4 @@
-Hi ![(https://media.giphy.com/media/eHdZZgmLheaqRT6kVX/giphy.gif]
+Hi ![](https://media.giphy.com/media/eHdZZgmLheaqRT6kVX/giphy.gif)
 My name is Andromeda
 =================================================================================================================================
 
